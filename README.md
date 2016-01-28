@@ -1,6 +1,6 @@
-[silentor](https://github.com/Jayin/silentor), a friendly fork of [silent](https://github.com/fritx/silent)
+silent
 ========
-> This is my silentor blog!
+> This is my silentor blog!!!!
 
 特点
 ----
